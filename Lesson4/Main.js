@@ -43,15 +43,17 @@
 // let listOfItems = ['html', 'css', 'javascript', 'mysql', 'mongodb', 'react', 'angular', 'node.js'];
 // for (item of listOfItems) {
 //     document.write(`
-//     <ul>
-//         <li>html</li>
-//         <li>css</li>
-//         <li>javascript</li>
-//         <li>mysql</li>
-//         <li>mongodb</li>
-//         <li>react</li>
+//    <ul>
+//          <li>html</li>
+//          <li>css</li>
+//          <li>javascript</li>
+//          <li>mysql</li>
+//          <li>mongodb</li>
+//          <li>react</li>
 //         <li>angular</li>
 //         <li>node.js</li>
+//        </ul>
+
 
 // Використовуючи данні з масиву, за допомоги document.write та циклу
 // побудувати структуру по шаблону  Зробити адекватну стилізацію
